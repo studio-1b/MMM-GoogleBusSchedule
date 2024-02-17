@@ -71,3 +71,5 @@ Required is to replace API key, and coordinates of where you want bus stops.
 # Details
 
 The program checks directions in 0.25mi N, E, W and S, and displays all departure bus stops and their departure times, and shows it on table.  Bus stop locations are also displayed on map.
+
+Your Google API key can be expected to generate around 1800 requests per month, to the Route API, resulting in a cost of around $80, which is well below to $200 that Google gives for free, as of 2/26/2023.  There is CachedSchedule branch, that  will cache the Bus schedules retreived from Route API, and this should reduce the number of requests to Route API by 75%.
