@@ -2,6 +2,14 @@
 
 MagicMirror module that Retreives Transit Schedule for nearby routes, and displays the departure stops on Google Map, and displays departure times in table.
 
+# Platform for the module
+
+Module to be installed in the MagicMirror application, described in below link.
+
+[https://github.com/MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror)
+
+The MagicMirror application is built on the [node.js](https://nodejs.org/en) application platform, and node.js package dependencies can be managed by [npm](https://www.npmjs.com/) application.
+
 > [!NOTE]
 > Uses Google Direction Routes API, to get nearby bus stops and departure times.
 > Google Direction Routes API is described below, but you don't to understand it to get it to work:
