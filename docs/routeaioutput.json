@@ -1,0 +1,923 @@
+//[04.11.2023 22:02.00.333] [LOG]   Response ended: 
+{
+  "routes": [
+    {
+      "legs": [
+        {
+          "steps": [
+            {},
+            {},
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "NB Canada Way @ Burris St",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.236222999999995,
+                        "longitude": -122.95511700000002
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T05:26:28Z",
+                  "departureStop": {
+                    "name": "NB Canada Way @ Elwell St",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.226926,
+                        "longitude": -122.94437400000001
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T05:22:17Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:26 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:22 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "Brentwood Station",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "New West Station/Brentwood Station",
+                  "nameShort": "123",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 6
+              }
+            },
+            {},
+            {},
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Metrotown Station @ Bay 1",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.226276999999996,
+                        "longitude": -123.003299
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T05:44:14Z",
+                  "departureStop": {
+                    "name": "WB Burris St @ Canada Way",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.235262000000006,
+                        "longitude": -122.95497399999998
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T05:32:09Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:44 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:32 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "Metrotown Station",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "SFU/Metrotown Station",
+                  "nameShort": "144",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 18
+              }
+            },
+            {},
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "WB Kingsway @ Wilson Ave",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.231423,
+                        "longitude": -123.008159
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T06:05:24Z",
+                  "departureStop": {
+                    "name": "Metrotown Stn Bay 2",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.226085,
+                        "longitude": -123.002888
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T06:01:00Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "11:05 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "11:01 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "Kingsway/To Stanley Park",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "Metrotown Station/Stanley Park",
+                  "nameShort": "019",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "legs": [
+        {
+          "steps": [
+            {},
+            {},
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "SB Willingdon Ave @ Dawson St",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.264033,
+                        "longitude": -123.003368
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T05:47:50Z",
+                  "departureStop": {
+                    "name": "NB Canada Way @ Elwell St",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.226926,
+                        "longitude": -122.94437400000001
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T05:22:17Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:47 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:22 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "Brentwood Station",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "New West Station/Brentwood Station",
+                  "nameShort": "123",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 22
+              }
+            },
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "SB Willingdon Ave @ Kemp St",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.229565,
+                        "longitude": -123.00571499999998
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T06:21:43Z",
+                  "departureStop": {
+                    "name": "SB Willingdon Ave @ Dawson St",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.264033,
+                        "longitude": -123.003368
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T06:08:20Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "11:21 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "11:08 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "Metrotown Station",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "Metrotown/Pender/Kootenay",
+                  "nameShort": "130",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 11
+              }
+            },
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "legs": [
+        {
+          "steps": [
+            {},
+            {},
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "NB Canada Way @ Burris St",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.236222999999995,
+                        "longitude": -122.95511700000002
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T05:26:28Z",
+                  "departureStop": {
+                    "name": "NB Canada Way @ Elwell St",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.226926,
+                        "longitude": -122.94437400000001
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T05:22:17Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:26 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:22 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "Brentwood Station",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "New West Station/Brentwood Station",
+                  "nameShort": "123",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 6
+              }
+            },
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "NB Holdom Ave @ Lougheed Hwy",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.264688,
+                        "longitude": -122.981032
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T05:46:00Z",
+                  "departureStop": {
+                    "name": "NB Canada Way @ Burris St",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.236222999999995,
+                        "longitude": -122.95511700000002
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T05:32:36Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:46 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:32 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "Holdom Station",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "Holdom Station/Edmonds Station",
+                  "nameShort": "133",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 16
+              }
+            },
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Patterson Station @ Bay 2",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.22931,
+                        "longitude": -123.01151
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T06:15:27Z",
+                  "departureStop": {
+                    "name": "NB Holdom Ave @ Lougheed Hwy",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.264688,
+                        "longitude": -122.981032
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T05:46:00Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "11:15 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:46 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "Patterson Station",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "Patterson Station/Holdom Station",
+                  "nameShort": "129",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 42
+              }
+            },
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "legs": [
+        {
+          "steps": [
+            {},
+            {},
+            {},
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "WB Edmonds St @ Kingsway",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.217441,
+                        "longitude": -122.953061
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T05:22:12Z",
+                  "departureStop": {
+                    "name": "WB Edmonds St @ Canada Way",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.223878,
+                        "longitude": -122.941553
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T05:18:52Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:22 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:18 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "Edmonds Station",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "New Westminster Station/Edmonds Station",
+                  "nameShort": "106",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 6
+              }
+            },
+            {},
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "SB McKay Ave @ Kingsway",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.229088,
+                        "longitude": -123.00338099999999
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T05:45:03Z",
+                  "departureStop": {
+                    "name": "EB Edmonds St @ 16 St",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.217231,
+                        "longitude": -122.953118
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T05:30:07Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:45 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:30 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "Metrotown Station",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "Edmonds Station/Metrotown Station",
+                  "nameShort": "119",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 17
+              }
+            },
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "legs": [
+        {
+          "steps": [
+            {},
+            {},
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "NB Canada Way @ Burris St",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.236222999999995,
+                        "longitude": -122.95511700000002
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T05:56:28Z",
+                  "departureStop": {
+                    "name": "NB Canada Way @ Elwell St",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.226926,
+                        "longitude": -122.94437400000001
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T05:52:17Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "10:56 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "10:52 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "Brentwood Station",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "New West Station/Brentwood Station",
+                  "nameShort": "123",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 6
+              }
+            },
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "NB Holdom Ave @ Lougheed Hwy",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.264688,
+                        "longitude": -122.981032
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T06:15:00Z",
+                  "departureStop": {
+                    "name": "NB Canada Way @ Burris St",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.236222999999995,
+                        "longitude": -122.95511700000002
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T06:01:36Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "11:15 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "11:01 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "Holdom Station",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "Holdom Station/Edmonds Station",
+                  "nameShort": "133",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 16
+              }
+            },
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "Patterson Station @ Bay 2",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.22931,
+                        "longitude": -123.01151
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T06:44:27Z",
+                  "departureStop": {
+                    "name": "NB Holdom Ave @ Lougheed Hwy",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.264688,
+                        "longitude": -122.981032
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T06:15:00Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "11:44 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "11:15 PM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "Patterson Station",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "Patterson Station/Holdom Station",
+                  "nameShort": "129",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 42
+              }
+            },
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "legs": [
+        {
+          "steps": [
+            {},
+            {},
+            {},
+            {
+              "transitDetails": {
+                "stopDetails": {
+                  "arrivalStop": {
+                    "name": "WB Kingsway @ Wilson Ave",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.231423,
+                        "longitude": -123.008159
+                      }
+                    }
+                  },
+                  "arrivalTime": "2023-11-05T07:44:31Z",
+                  "departureStop": {
+                    "name": "WB Edmonds St @ Canada Way",
+                    "location": {
+                      "latLng": {
+                        "latitude": 49.223878,
+                        "longitude": -122.941553
+                      }
+                    }
+                  },
+                  "departureTime": "2023-11-05T07:31:42Z"
+                },
+                "localizedValues": {
+                  "arrivalTime": {
+                    "time": {
+                      "text": "12:44 AM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  },
+                  "departureTime": {
+                    "time": {
+                      "text": "12:31 AM"
+                    },
+                    "timeZone": "America/Vancouver"
+                  }
+                },
+                "headsign": "N19 Downtown NightBus",
+                "transitLine": {
+                  "agencies": [
+                    {
+                      "name": "TransLink",
+                      "phoneNumber": "+1 604-953-3333",
+                      "uri": "https://www.translink.ca/"
+                    }
+                  ],
+                  "name": "Downtown/Surrey Central Station NightBus",
+                  "nameShort": "N19",
+                  "vehicle": {
+                    "name": {
+                      "text": "Bus"
+                    },
+                    "type": "BUS",
+                    "iconUri": "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png"
+                  }
+                },
+                "stopCount": 22
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+

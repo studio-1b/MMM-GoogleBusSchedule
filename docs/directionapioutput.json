@@ -1,0 +1,645 @@
+
+{
+  "geocoded_waypoints" : 
+  [
+     {
+        "geocoder_status" : "OK",
+        "place_id" : "ChIJbcdGs893hlQRj1PC82QPp28",
+        "types" : 
+        [
+           "street_address"
+        ]
+     },
+     {
+        "geocoder_status" : "OK",
+        "partial_match" : true,
+        "place_id" : "ChIJSdeB41B3hlQRz4KYQtNHDE4",
+        "types" : 
+        [
+           "establishment",
+           "food",
+           "point_of_interest",
+           "restaurant"
+        ]
+     }
+  ],
+  "routes" : 
+  [
+     {
+        "bounds" : 
+        {
+           "northeast" : 
+           {
+              "lat" : 49.2317309,
+              "lng" : -122.9436617
+           },
+           "southwest" : 
+           {
+              "lat" : 49.2118956,
+              "lng" : -123.0126755
+           }
+        },
+        "copyrights" : "Map data ©2023 Google",
+        "legs" : 
+        [
+           {
+              "arrival_time" : 
+              {
+                 "text" : "10:47 PM",
+                 "time_zone" : "America/Vancouver",
+                 "value" : 1699163241
+              },
+              "departure_time" : 
+              {
+                 "text" : "10:12 PM",
+                 "time_zone" : "America/Vancouver",
+                 "value" : 1699161172
+              },
+              "distance" : 
+              {
+                 "text" : "6.9 km",
+                 "value" : 6941
+              },
+              "duration" : 
+              {
+                 "text" : "34 mins",
+                 "value" : 2069
+              },
+              "end_address" : "7-4300 Kingsway, Burnaby, BC V5H 1Z8, Canada",
+              "end_location" : 
+              {
+                 "lat" : 49.2311914,
+                 "lng" : -123.0081977
+              },
+              "start_address" : "7561 Kingsway, Burnaby, BC V3N 3C4, Canada",
+              "start_location" : 
+              {
+                 "lat" : 49.216888,
+                 "lng" : -122.9436617
+              },
+              "steps" : 
+              [
+                 {
+                    "distance" : 
+                    {
+                       "text" : "0.7 km",
+                       "value" : 665
+                    },
+                    "duration" : 
+                    {
+                       "text" : "10 mins",
+                       "value" : 590
+                    },
+                    "end_location" : 
+                    {
+                       "lat" : 49.2190542,
+                       "lng" : -122.9504596
+                    },
+                    "html_instructions" : "Walk to WB Edmonds St @ Linden Ave",
+                    "polyline" : 
+                    {
+                       "points" : "qtkkHzlkmVMp@A@O~@SzASnAc@vCm@rCSbAI`@G^QlAKr@Gj@KdACP?LM~@Mz@KdCGzC?|@MLCBGBE@K@CEGOWe@IKGGKGMUM]"
+                    },
+                    "start_location" : 
+                    {
+                       "lat" : 49.216888,
+                       "lng" : -122.9436617
+                    },
+                    "steps" : 
+                    [
+                       {
+                          "distance" : 
+                          {
+                             "text" : "0.6 km",
+                             "value" : 564
+                          },
+                          "duration" : 
+                          {
+                             "text" : "8 mins",
+                             "value" : 490
+                          },
+                          "end_location" : 
+                          {
+                             "lat" : 49.2183637,
+                             "lng" : -122.9510293
+                          },
+                          "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eKingsway\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eBC-1A\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eBC-99A N\u003c/b\u003e toward \u003cb\u003eStride Ave\u003c/b\u003e",
+                          "polyline" : 
+                          {
+                             "points" : "qtkkHzlkmVMp@A@O~@SzASnAc@vCm@rCSbAI`@G^QlAKr@Gj@KdACP?LM~@Mz@KdCGzC?|@"
+                          },
+                          "start_location" : 
+                          {
+                             "lat" : 49.216888,
+                             "lng" : -122.9436617
+                          },
+                          "travel_mode" : "WALKING"
+                       },
+                       {
+                          "distance" : 
+                          {
+                             "text" : "27 m",
+                             "value" : 27
+                          },
+                          "duration" : 
+                          {
+                             "text" : "1 min",
+                             "value" : 29
+                          },
+                          "end_location" : 
+                          {
+                             "lat" : 49.2185808,
+                             "lng" : -122.9511611
+                          },
+                          "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eEdmonds St\u003c/b\u003e",
+                          "maneuver" : "turn-right",
+                          "polyline" : 
+                          {
+                             "points" : "w}kkH|zlmVMLCBGBE@K@"
+                          },
+                          "start_location" : 
+                          {
+                             "lat" : 49.2183637,
+                             "lng" : -122.9510293
+                          },
+                          "travel_mode" : "WALKING"
+                       },
+                       {
+                          "distance" : 
+                          {
+                             "text" : "74 m",
+                             "value" : 74
+                          },
+                          "duration" : 
+                          {
+                             "text" : "1 min",
+                             "value" : 71
+                          },
+                          "end_location" : 
+                          {
+                             "lat" : 49.2190542,
+                             "lng" : -122.9504596
+                          },
+                          "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eEdmonds St\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                          "maneuver" : "turn-right",
+                          "polyline" : 
+                          {
+                             "points" : "c_lkHv{lmVCEGOWe@IKGGKGMUM]"
+                          },
+                          "start_location" : 
+                          {
+                             "lat" : 49.2185808,
+                             "lng" : -122.9511611
+                          },
+                          "travel_mode" : "WALKING"
+                       }
+                    ],
+                    "travel_mode" : "WALKING"
+                 },
+                 {
+                    "distance" : 
+                    {
+                       "text" : "1.2 km",
+                       "value" : 1183
+                    },
+                    "duration" : 
+                    {
+                       "text" : "4 mins",
+                       "value" : 244
+                    },
+                    "end_location" : 
+                    {
+                       "lat" : 49.21197,
+                       "lng" : -122.958485
+                    },
+                    "html_instructions" : "Bus towards Edmonds Station",
+                    "polyline" : 
+                    {
+                       "points" : "iblkHtwlmVFIL\\LTBPBLJ\\`@bARXBBBBXNRNNJHJHJHPHTb@~@nAzBJRLVFHf@fAHNPb@@Bf@fAf@jABHVh@N`@JTJb@HNVn@Th@hAnCTj@BFTb@`@z@HTl@tAVh@FNh@|@FNl@tAP^t@gAdA{ArAeBVh@b@`AVh@LVn@WE]?OBEBKHMDFp@j@"
+                    },
+                    "start_location" : 
+                    {
+                       "lat" : 49.219094,
+                       "lng" : -122.950508
+                    },
+                    "transit_details" : 
+                    {
+                       "arrival_stop" : 
+                       {
+                          "location" : 
+                          {
+                             "lat" : 49.21197,
+                             "lng" : -122.958485
+                          },
+                          "name" : "Edmonds Station @ Bay 4"
+                       },
+                       "arrival_time" : 
+                       {
+                          "text" : "10:27 PM",
+                          "time_zone" : "America/Vancouver",
+                          "value" : 1699162021
+                       },
+                       "departure_stop" : 
+                       {
+                          "location" : 
+                          {
+                             "lat" : 49.219094,
+                             "lng" : -122.950508
+                          },
+                          "name" : "WB Edmonds St @ Linden Ave"
+                       },
+                       "departure_time" : 
+                       {
+                          "text" : "10:22 PM",
+                          "time_zone" : "America/Vancouver",
+                          "value" : 1699161762
+                       },
+                       "headsign" : "Edmonds Station",
+                       "line" : 
+                       {
+                          "agencies" : 
+                          [
+                             {
+                                "name" : "TransLink",
+                                "phone" : "1 (604) 953-3333",
+                                "url" : "https://www.translink.ca/"
+                             }
+                          ],
+                          "name" : "New Westminster Station/Edmonds Station",
+                          "short_name" : "106",
+                          "vehicle" : 
+                          {
+                             "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                             "name" : "Bus",
+                             "type" : "BUS"
+                          }
+                       },
+                       "num_stops" : 4
+                    },
+                    "travel_mode" : "TRANSIT"
+                 },
+                 {
+                    "distance" : 
+                    {
+                       "text" : "84 m",
+                       "value" : 84
+                    },
+                    "duration" : 
+                    {
+                       "text" : "1 min",
+                       "value" : 74
+                    },
+                    "end_location" : 
+                    {
+                       "lat" : 49.211945,
+                       "lng" : -122.95904
+                    },
+                    "html_instructions" : "Walk to Edmonds",
+                    "polyline" : 
+                    {
+                       "points" : "mujkHhinmV@H?NKZEJC@CBBVU@GCANl@F"
+                    },
+                    "start_location" : 
+                    {
+                       "lat" : 49.2119125,
+                       "lng" : -122.9584539
+                    },
+                    "steps" : 
+                    [
+                       {
+                          "distance" : 
+                          {
+                             "text" : "33 m",
+                             "value" : 33
+                          },
+                          "duration" : 
+                          {
+                             "text" : "1 min",
+                             "value" : 27
+                          },
+                          "end_location" : 
+                          {
+                             "lat" : 49.21203329999999,
+                             "lng" : -122.9588138
+                          },
+                          "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eEdmonds Station Bus Loop\u003c/b\u003e",
+                          "polyline" : 
+                          {
+                             "points" : "mujkHhinmV@H?NKZEJC@CB"
+                          },
+                          "start_location" : 
+                          {
+                             "lat" : 49.2119125,
+                             "lng" : -122.9584539
+                          },
+                          "travel_mode" : "WALKING"
+                       },
+                       {
+                          "distance" : 
+                          {
+                             "text" : "9 m",
+                             "value" : 9
+                          },
+                          "duration" : 
+                          {
+                             "text" : "1 min",
+                             "value" : 8
+                          },
+                          "end_location" : 
+                          {
+                             "lat" : 49.2120067,
+                             "lng" : -122.9589267
+                          },
+                          "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                          "maneuver" : "turn-left",
+                          "polyline" : 
+                          {
+                             "points" : "evjkHpknmVBV"
+                          },
+                          "start_location" : 
+                          {
+                             "lat" : 49.21203329999999,
+                             "lng" : -122.9588138
+                          },
+                          "travel_mode" : "WALKING"
+                       },
+                       {
+                          "distance" : 
+                          {
+                             "text" : "17 m",
+                             "value" : 17
+                          },
+                          "duration" : 
+                          {
+                             "text" : "1 min",
+                             "value" : 13
+                          },
+                          "end_location" : 
+                          {
+                             "lat" : 49.2121593,
+                             "lng" : -122.9589249
+                          },
+                          "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                          "maneuver" : "turn-right",
+                          "polyline" : 
+                          {
+                             "points" : "avjkHhlnmVU@GC"
+                          },
+                          "start_location" : 
+                          {
+                             "lat" : 49.2120067,
+                             "lng" : -122.9589267
+                          },
+                          "travel_mode" : "WALKING"
+                       },
+                       {
+                          "distance" : 
+                          {
+                             "text" : "25 m",
+                             "value" : 25
+                          },
+                          "duration" : 
+                          {
+                             "text" : "1 min",
+                             "value" : 26
+                          },
+                          "end_location" : 
+                          {
+                             "lat" : 49.211945,
+                             "lng" : -122.95904
+                          },
+                          "html_instructions" : "Take entrance \u003cspan class=\"location\"\u003eEdmonds Station Entrance\u003c/span\u003e",
+                          "polyline" : 
+                          {
+                             "points" : "awjkHvlnmVl@F"
+                          },
+                          "start_location" : 
+                          {
+                             "lat" : 49.21217000000001,
+                             "lng" : -122.959
+                          },
+                          "travel_mode" : "WALKING"
+                       }
+                    ],
+                    "travel_mode" : "WALKING"
+                 },
+                 {
+                    "distance" : 
+                    {
+                       "text" : "4.5 km",
+                       "value" : 4544
+                    },
+                    "duration" : 
+                    {
+                       "text" : "6 mins",
+                       "value" : 360
+                    },
+                    "end_location" : 
+                    {
+                       "lat" : 49.229798,
+                       "lng" : -123.012613
+                    },
+                    "html_instructions" : "Subway towards Waterfront",
+                    "polyline" : 
+                    {
+                       "points" : "sujkH~lnmVBNo@`@yA`AIFwA~@q@d@w@h@kA`A]\\]d@CDQZe@fAWz@ERCPERG`@It@Cl@EfCHlKL`MD|C@lHAh@C~@Cp@IdAEb@Ip@Kn@Mx@[tA_@nA_@hAWt@o@dB_AdCaBpEoAdDy@xBYx@CJGNENWv@[dAI\\I^S`AGVEZ[`B?BIr@k@pEIr@It@_@|CWnBGl@_@|CSfBKz@Il@It@Ir@Ir@EXEZIr@Ir@Kr@ShBKr@Ed@CNIr@Ih@AHIr@Kt@Ir@AFIj@Kr@Ir@Kr@G`@CPKr@Gb@ObAIn@ABUhBk@nECPG`@CNGb@CPYpA?@m@dCWx@K^EL}@fCUp@g@rAUl@k@`BwBdGi@zASj@Sl@Uj@Sl@W\\Yn@ABmAvC]z@Sh@O\\Qr@KXUj@Uj@Ul@IR_@bASl@Ob@CFUl@g@xAA?g@xASl@Sl@Sl@Sl@CHc@nAAB_@fAGLSl@M^[x@GPKXQf@ADQd@CFGP]`ACDM`@Sh@ELIRIVi@zASl@Sj@Sl@Sl@Sl@Sj@Sl@Sl@[z@K^Sl@Sl@GPKM"
+                    },
+                    "start_location" : 
+                    {
+                       "lat" : 49.211945,
+                       "lng" : -122.95904
+                    },
+                    "transit_details" : 
+                    {
+                       "arrival_stop" : 
+                       {
+                          "location" : 
+                          {
+                             "lat" : 49.229798,
+                             "lng" : -123.012613
+                          },
+                          "name" : "Patterson"
+                       },
+                       "arrival_time" : 
+                       {
+                          "text" : "10:41 PM",
+                          "time_zone" : "America/Vancouver",
+                          "value" : 1699162860
+                       },
+                       "departure_stop" : 
+                       {
+                          "location" : 
+                          {
+                             "lat" : 49.211945,
+                             "lng" : -122.95904
+                          },
+                          "name" : "Edmonds"
+                       },
+                       "departure_time" : 
+                       {
+                          "text" : "10:35 PM",
+                          "time_zone" : "America/Vancouver",
+                          "value" : 1699162500
+                       },
+                       "headsign" : "Waterfront",
+                       "line" : 
+                       {
+                          "agencies" : 
+                          [
+                             {
+                                "name" : "TransLink",
+                                "phone" : "1 (604) 953-3333",
+                                "url" : "https://www.translink.ca/"
+                             }
+                          ],
+                          "color" : "#0033a0",
+                          "name" : "Expo Line",
+                          "text_color" : "#ffffff",
+                          "vehicle" : 
+                          {
+                             "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/subway2.png",
+                             "name" : "Subway",
+                             "type" : "SUBWAY"
+                          }
+                       },
+                       "num_stops" : 3
+                    },
+                    "travel_mode" : "TRANSIT"
+                 },
+                 {
+                    "distance" : 
+                    {
+                       "text" : "0.5 km",
+                       "value" : 465
+                    },
+                    "duration" : 
+                    {
+                       "text" : "6 mins",
+                       "value" : 381
+                    },
+                    "end_location" : 
+                    {
+                       "lat" : 49.2311914,
+                       "lng" : -123.0081977
+                    },
+                    "html_instructions" : "Walk to 7-4300 Kingsway, Burnaby, BC V5H 1Z8, Canada",
+                    "polyline" : 
+                    {
+                       "points" : "genkHx{xmVn@{@M_@DMOQ?A_AaAIIk@m@YOe@g@UWIKsAyAg@i@IOQSGEY[IK|@yDl@mC"
+                    },
+                    "start_location" : 
+                    {
+                       "lat" : 49.229798,
+                       "lng" : -123.012613
+                    },
+                    "steps" : 
+                    [
+                       {
+                          "distance" : 
+                          {
+                             "text" : "34 m",
+                             "value" : 34
+                          },
+                          "duration" : 
+                          {
+                             "text" : "1 min",
+                             "value" : 35
+                          },
+                          "end_location" : 
+                          {
+                             "lat" : 49.22956,
+                             "lng" : -123.01231
+                          },
+                          "html_instructions" : "Take exit \u003cspan class=\"location\"\u003ePatterson Station - entrance\u003c/span\u003e",
+                          "polyline" : 
+                          {
+                             "points" : "genkHx{xmVn@{@"
+                          },
+                          "start_location" : 
+                          {
+                             "lat" : 49.229798,
+                             "lng" : -123.012613
+                          },
+                          "travel_mode" : "WALKING"
+                       },
+                       {
+                          "distance" : 
+                          {
+                             "text" : "0.3 km",
+                             "value" : 294
+                          },
+                          "duration" : 
+                          {
+                             "text" : "4 mins",
+                             "value" : 235
+                          },
+                          "end_location" : 
+                          {
+                             "lat" : 49.2317309,
+                             "lng" : -123.0098411
+                          },
+                          "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eOlive Ave\u003c/b\u003e toward \u003cb\u003eBarker Ave\u003c/b\u003e",
+                          "polyline" : 
+                          {
+                             "points" : "ednkH|xxmVDMOQ?A_AaAIIk@m@YOe@g@UWIKsAyAg@i@IOQSGEY[IK"
+                          },
+                          "start_location" : 
+                          {
+                             "lat" : 49.2296253,
+                             "lng" : -123.0121453
+                          },
+                          "travel_mode" : "WALKING"
+                       },
+                       {
+                          "distance" : 
+                          {
+                             "text" : "0.1 km",
+                             "value" : 137
+                          },
+                          "duration" : 
+                          {
+                             "text" : "2 mins",
+                             "value" : 111
+                          },
+                          "end_location" : 
+                          {
+                             "lat" : 49.2311914,
+                             "lng" : -123.0081977
+                          },
+                          "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKingsway\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eBC-1A\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eBC-99A S\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                          "maneuver" : "turn-right",
+                          "polyline" : 
+                          {
+                             "points" : "iqnkHnjxmV|@yDl@mC"
+                          },
+                          "start_location" : 
+                          {
+                             "lat" : 49.2317309,
+                             "lng" : -123.0098411
+                          },
+                          "travel_mode" : "WALKING"
+                       }
+                    ],
+                    "travel_mode" : "WALKING"
+                 }
+              ],
+              "traffic_speed_entry" : [],
+              "via_waypoint" : []
+           }
+        ],
+        "overview_polyline" : 
+        {
+           "points" : "qtkkHzlkmVOr@c@zCw@fFaAvEo@bEWpC[zBKdCGzC?|@MLKFQBKUa@q@SO[s@GHFIZr@F^l@`BV\\\\Rb@ZRVRf@lCfFjAdCtA`Df@jAVx@`CxFXr@v@~AvAdDp@lA~@tBzBcDrAeBVh@z@jBLVn@WEm@FQHMDFp@j@JE@XQf@GDBVU@GCANl@FBNiCbBaBfAiBnAiB~Aa@j@w@bBg@tBQvAItDVnYD|C@lHEhBMvBOtAYhB{@dDw@~BaHbR_BnEcAjDk@tC[dBu@dGkAvJgAnJgAhJkAnJ_DzU{@rGe@hCeA~DQl@qCzHaFnNi@xASl@W\\[r@kBrEc@fA]lAkAxCgA|CwDxKsFvOeHnS{@lCKMn@{@M_@DMOSiAkAk@m@YO{@_A}AeBq@y@}@aAjBgI"
+        },
+        "summary" : "",
+        "warnings" : 
+        [
+           "Walking directions are in beta. Use caution – This route may be missing sidewalks or pedestrian paths."
+        ],
+        "waypoint_order" : []
+     }
+  ],
+  "status" : "OK"
+}
+
+

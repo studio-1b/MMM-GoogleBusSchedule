@@ -1,0 +1,15 @@
+{
+  "name": "MMM-ImapFeed",
+  "description": "A Widget that accesses email via Imap protocol and displays the unread emails",
+  "keywords": [
+    "mirror",
+    "smart mirror",
+    "mirror Google Bus"
+  ],
+  "version": "0.0.1",
+  "dependencies": {
+    "text-to-image": "latest",
+    "http": "latest",
+    "https": "latest"
+  }
+}

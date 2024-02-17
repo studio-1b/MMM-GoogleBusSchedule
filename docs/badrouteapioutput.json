@@ -1,0 +1,22 @@
+{
+  "error": {
+    "code": 400,
+    "message": "Invalid JSON payload received. Unknown name \"coordinates\" at 'origin': Cannot find field.\nInvalid JSON payload received. Unknown name \"coordinates\" at 'destination': Cannot find field.",
+    "status": "INVALID_ARGUMENT",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.BadRequest",
+        "fieldViolations": [
+          {
+            "field": "origin",
+            "description": "Invalid JSON payload received. Unknown name \"coordinates\" at 'origin': Cannot find field."
+          },
+          {
+            "field": "destination",
+            "description": "Invalid JSON payload received. Unknown name \"coordinates\" at 'destination': Cannot find field."
+          }
+        ]
+      }
+    ]
+  }
+}
