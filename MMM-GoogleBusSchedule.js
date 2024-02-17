@@ -507,6 +507,7 @@ console.log(map);
         } else {
             //send bus update request
             this.nextbusTr.cells[2].innerHTML="past";
+            this.config.lastRequestID = this.getRequestID(this.nextbus.departureUTC[0]);
             this.sendSocketNotification('GOOGLEMAP_BUS_UPDATE',this.config);
         }
     },
@@ -535,6 +536,9 @@ console.log(map);
         };
         return returntext.trim();
     },
+    getRequestID: function ( d ) {
+        return d.getDay()*1000 + d.getHours()*100 + d.getMinutes();
+    }
 
     dateToTimeString: function(d){
         var hh=d.getHours();
