@@ -29,6 +29,9 @@ The MagicMirror application is built on the [node.js](https://nodejs.org/en) app
 > Needs Google API key to work.  You can obtain one here:
 > [https://console.cloud.google.com/apis/credentials](https://console.cloud.google.com/apis/credentials).
 > The key needs to have permissions to the API indicated above.
+> To get a Google API Key, read my blog entry:
+> [https://www.tictawf.com/blog/using-google-cloud-apis/](https://www.tictawf.com/blog/using-google-cloud-apis/)
+> But you will need to supply a credit card.
 
 ### Step 1: Clone module from github, and install dependencies for module
 
